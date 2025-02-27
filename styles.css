@@ -1,11 +1,16 @@
 
 
 body {
-    background-color: rgb(167, 167, 129);
+    background-color: rgb(233, 233, 226);
 }
 
 a {
     font-size: 22px;
     font-weight: bolder;
     
+}
+header{
+    background-color: rgb(184, 182, 168);
+    padding: 8px;
+    font-weight: bolder;
 }
