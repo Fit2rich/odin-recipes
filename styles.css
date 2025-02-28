@@ -2,23 +2,32 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    
 }
 
 body {
-    background-color: rgb(163, 142, 157);
+    background-color: rgb(241, 239, 241);
+
 }
 
 a {
     font-size: 22px;
     font-weight: bolder;
         margin: 10px;
+        
+        
     
 }
 header{
     background-color: rgb(184, 182, 168);
     padding: 8px;
     font-weight: bolder;
+    justify-content: center;
+    display: flex;
+    
+    
 }
 h2, h1{
     margin: 10px;
+    
 }
